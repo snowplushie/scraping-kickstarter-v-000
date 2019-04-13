@@ -1,4 +1,3 @@
-# require libraries/modules here
 require "nokogiri"
 
   def create_project_hash
@@ -15,4 +14,3 @@ require "nokogiri"
       }
   end
   projects
-end
