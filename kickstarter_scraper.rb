@@ -16,4 +16,8 @@ def create_project_hash
       percent_funded: project.css("li.funded strong").text.gsub('%', '').to_i
     }
 end
+
+projects
+
+
 end
