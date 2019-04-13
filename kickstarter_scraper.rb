@@ -1,5 +1,5 @@
 # require libraries/modules here
-require "../kickstarter_scraper"
+require_relative "../kickstarter_scraper"
 require "nokogiri"
 require "pry"
 
